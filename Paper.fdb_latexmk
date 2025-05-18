@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex Paper"] 1746967687.80388 "Paper.aux" "Paper.bbl" "Paper" 1746967692.39558 0
-  "./tite.bib" 1746811423 7926 92380b01465db3465afb97e39339f207 ""
+["bibtex Paper"] 1747576110.17892 "Paper.aux" "Paper.bbl" "Paper" 1747576115.04282 0
+  "./reference.bib" 1746811423 7926 92380b01465db3465afb97e39339f207 ""
   "C:/Users/Franniel/AppData/Roaming/MiKTeX/bibtex/bst/apacite/apacite.bst" 1374952728 146156 9d7b79dbf9d91133318126032cff8c27 ""
-  "Paper.aux" 1746967691 18148 d26faeba470f4862d0a698ef93882be5 "pdflatex"
+  "Paper.aux" 1747576113 18153 bb2190a26bc45e3f9e2d1560e1056bef "pdflatex"
   (generated)
   "Paper.bbl"
   "Paper.blg"
   (rewritten before read)
-["pdflatex"] 1746967688.24069 "e:/LaTeX/Math Modeling/Final Paper/Paper.tex" "Paper.pdf" "Paper" 1746967692.39689 0
-  "C:/Users/Franniel/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1746791796 124812 2a331c5d4ecde6dc0aef41402c752ea7 ""
+["pdflatex"] 1747576110.67064 "e:/LaTeX/Math Modeling/Final Paper/Paper.tex" "Paper.pdf" "Paper" 1747576115.04429 0
+  "C:/Users/Franniel/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1747070488 124812 2a331c5d4ecde6dc0aef41402c752ea7 ""
   "C:/Users/Franniel/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1723965603 24255568 b2c8fb7e1c41e961c95f441b7255a1f5 ""
   "C:/Users/Franniel/AppData/Roaming/MiKTeX/tex/generic/bigintcalc/bigintcalc.sty" 1576433602 40635 c40361e206be584d448876bba8a64a3b ""
   "C:/Users/Franniel/AppData/Roaming/MiKTeX/tex/generic/bitset/bitset.sty" 1575926576 33961 6b5c75130e435b2bfdb9f480a09a39f9 ""
@@ -185,11 +185,11 @@
   "D:/Program Files/MiKTeX/tex/latex/tools/indentfirst.sty" 1718356376 1618 d81d7e8646081fd4049b99a8cd8a91df ""
   "D:/Program Files/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "D:/Program Files/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "Paper.aux" 1746967691 18148 d26faeba470f4862d0a698ef93882be5 "pdflatex"
-  "Paper.bbl" 1746967688 15258 5bc67f5efce452451be12402c3753180 "bibtex Paper"
-  "Paper.tex" 1746967682 57149 8c34f3b3d4e073c2eb8efbadf315deea ""
-  "Paper.toc" 1746967691 1761 aaf33060c10e8318307c854c0cb893bf "pdflatex"
-  "e:/LaTeX/Math Modeling/Final Paper/Paper.tex" 1746967682 57149 8c34f3b3d4e073c2eb8efbadf315deea ""
+  "Paper.aux" 1747576113 18153 bb2190a26bc45e3f9e2d1560e1056bef "pdflatex"
+  "Paper.bbl" 1747576110 15258 5bc67f5efce452451be12402c3753180 "bibtex Paper"
+  "Paper.tex" 1747576101 57146 72ff1ae26ff08912eaadb48c737f1101 ""
+  "Paper.toc" 1747576113 1761 aaf33060c10e8318307c854c0cb893bf "pdflatex"
+  "e:/LaTeX/Math Modeling/Final Paper/Paper.tex" 1747576101 57146 72ff1ae26ff08912eaadb48c737f1101 ""
   "images/Price_plot.png" 1746785147 27861 afcd6831a0dcd26096127a5f52cae526 ""
   "images/acf.png" 1746786884 16871 71a42b975765436791f9fe987aaff776 ""
   "images/bulsu_logo.png" 1726741520 25346 18ee114cc16543af030e8df773d2d64b ""

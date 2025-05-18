@@ -3,7 +3,7 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Paper.aux
 Reallocating 'name_of_file' (item size: 1) to 8 items.
 The style file: apacite.bst
-Reallocating 'name_of_file' (item size: 1) to 9 items.
+Reallocating 'name_of_file' (item size: 1) to 14 items.
 Reallocating 'glb_str_end' (item size: 4) to 20 items.
 Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
 Reallocating 'global_strs' (item size: 1) to 4000000 items.
@@ -13,17 +13,17 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-Database file #1: tite.bib
+Database file #1: reference.bib
 Warning--entry type for "ljung" isn't style-file defined
---line 184 of file tite.bib
+--line 184 of file reference.bib
 Warning--entry type for "kumar" isn't style-file defined
---line 192 of file tite.bib
+--line 192 of file reference.bib
 Warning--entry type for "zajic" isn't style-file defined
---line 208 of file tite.bib
+--line 208 of file reference.bib
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
 You've used 22 entries,
             6951 wiz_defined-function locations,
-            1413 strings with 14912 characters,
+            1413 strings with 14917 characters,
 and the built_in function-call counts, 44082 in all, are:
 = -- 5439
 > -- 351

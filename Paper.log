@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.8.18)  11 MAY 2025 20:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.8.18)  18 MAY 2025 21:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -838,17 +838,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <images/resid.png, id=238, 556.0775pt x 433.62pt>
 File: images/resid.png Graphic file (type png)
 <use images/resid.png>
-Package pdftex.def Info: images/resid.png  used on input line 427.
+Package pdftex.def Info: images/resid.png  used on input line 426.
 (pdftex.def)             Requested size: 339.73285pt x 216.80946pt.
 <images/resid_acf.png, id=239, 570.13pt x 436.63126pt>
 File: images/resid_acf.png Graphic file (type png)
 <use images/resid_acf.png>
-Package pdftex.def Info: images/resid_acf.png  used on input line 436.
+Package pdftex.def Info: images/resid_acf.png  used on input line 435.
 (pdftex.def)             Requested size: 217.42265pt x 166.50789pt.
 <images/resid_pacf.png, id=240, 570.13pt x 436.63126pt>
 File: images/resid_pacf.png Graphic file (type png)
 <use images/resid_pacf.png>
-Package pdftex.def Info: images/resid_pacf.png  used on input line 441.
+Package pdftex.def Info: images/resid_pacf.png  used on input line 440.
 (pdftex.def)             Requested size: 217.42265pt x 166.50789pt.
 
 
@@ -878,14 +878,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [16]
-Overfull \hbox (4.88458pt too wide) in paragraph at lines 570--571
+Overfull \hbox (4.88458pt too wide) in paragraph at lines 569--570
 []\OT1/phv/m/n/10.95 The model for the fore-cast-ing of price of re-fined sugar in the Philip-pines is the ARI-MAX(1,1,1)
  []
 
 <images/forecasted_plot.png, id=269, 1011.78pt x 550.055pt>
 File: images/forecasted_plot.png Graphic file (type png)
 <use images/forecasted_plot.png>
-Package pdftex.def Info: images/forecasted_plot.png  used on input line 576.
+Package pdftex.def Info: images/forecasted_plot.png  used on input line 575.
 (pdftex.def)             Requested size: 398.61395pt x 216.7112pt.
 
 
@@ -986,17 +986,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <images/production_plot.png, id=315, 987.69pt x 550.055pt>
 File: images/production_plot.png Graphic file (type png)
 <use images/production_plot.png>
-Package pdftex.def Info: images/production_plot.png  used on input line 655.
+Package pdftex.def Info: images/production_plot.png  used on input line 654.
 (pdftex.def)             Requested size: 339.72592pt x 189.19005pt.
 <images/withdrawals_plot.png, id=316, 987.69pt x 550.055pt>
 File: images/withdrawals_plot.png Graphic file (type png)
 <use images/withdrawals_plot.png>
-Package pdftex.def Info: images/withdrawals_plot.png  used on input line 662.
+Package pdftex.def Info: images/withdrawals_plot.png  used on input line 661.
 (pdftex.def)             Requested size: 339.72592pt x 189.19005pt.
 <images/exchange_rate_plot.png, id=317, 982.67125pt x 550.055pt>
 File: images/exchange_rate_plot.png Graphic file (type png)
 <use images/exchange_rate_plot.png>
-Package pdftex.def Info: images/exchange_rate_plot.png  used on input line 669.
+Package pdftex.def Info: images/exchange_rate_plot.png  used on input line 668.
 (pdftex.def)             Requested size: 339.72592pt x 190.16365pt.
 
 
@@ -1011,17 +1011,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <images/temperature_plot.png, id=324, 982.67125pt x 550.055pt>
 File: images/temperature_plot.png Graphic file (type png)
 <use images/temperature_plot.png>
-Package pdftex.def Info: images/temperature_plot.png  used on input line 676.
+Package pdftex.def Info: images/temperature_plot.png  used on input line 675.
 (pdftex.def)             Requested size: 339.72592pt x 190.16365pt.
 <images/precipitation_plot.png, id=325, 991.705pt x 550.055pt>
 File: images/precipitation_plot.png Graphic file (type png)
 <use images/precipitation_plot.png>
-Package pdftex.def Info: images/precipitation_plot.png  used on input line 683.
+Package pdftex.def Info: images/precipitation_plot.png  used on input line 682.
 (pdftex.def)             Requested size: 339.72592pt x 188.42627pt.
 <images/inflation_plot.png, id=326, 974.64125pt x 550.055pt>
 File: images/inflation_plot.png Graphic file (type png)
 <use images/inflation_plot.png>
-Package pdftex.def Info: images/inflation_plot.png  used on input line 690.
+Package pdftex.def Info: images/inflation_plot.png  used on input line 689.
 (pdftex.def)             Requested size: 339.72592pt x 191.72478pt.
 
 
