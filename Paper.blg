@@ -1,0 +1,65 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Paper.aux
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+The style file: apacite.bst
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: tite.bib
+Warning--entry type for "ljung" isn't style-file defined
+--line 184 of file tite.bib
+Warning--entry type for "kumar" isn't style-file defined
+--line 192 of file tite.bib
+Warning--entry type for "zajic" isn't style-file defined
+--line 208 of file tite.bib
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
+You've used 22 entries,
+            6951 wiz_defined-function locations,
+            1413 strings with 14912 characters,
+and the built_in function-call counts, 44082 in all, are:
+= -- 5439
+> -- 351
+< -- 2244
++ -- 2222
+- -- 55
+* -- 2823
+:= -- 8365
+add.period$ -- 89
+call.type$ -- 22
+change.case$ -- 422
+chr.to.int$ -- 0
+cite$ -- 44
+duplicate$ -- 1062
+empty$ -- 1684
+format.name$ -- 565
+if$ -- 8268
+int.to.chr$ -- 0
+int.to.str$ -- 70
+missing$ -- 0
+newline$ -- 562
+num.names$ -- 176
+pop$ -- 962
+preamble$ -- 1
+purify$ -- 120
+quote$ -- 0
+skip$ -- 2585
+stack$ -- 0
+substring$ -- 2397
+swap$ -- 572
+text.length$ -- 93
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 1976
+warning$ -- 0
+while$ -- 220
+width$ -- 0
+write$ -- 692
+(There were 3 warnings)

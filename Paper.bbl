@@ -1,0 +1,616 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Amarra%
+\ \BBA {} De~Los~Reyes%
+}{%
+Amarra%
+\ \BBA {} De~Los~Reyes%
+}{%
+{\protect \APACyear {2024}}%
+}]{%
+amarra-2024}
+\APACinsertmetastar {%
+amarra-2024}%
+\begin{APACrefauthors}%
+Amarra, M\BPBI S.%
+\BCBT {}\ \BBA {} De~Los~Reyes, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{March}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Assessment of the intake and sources of total sugar
+  among Filipino children and adolescents based on national consumption data}}
+  {{Assessment of the intake and sources of total sugar among Filipino children
+  and adolescents based on national consumption data}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Deleted Journal}{2}{1}{2060}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.36922/ghes.2060} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.36922/ghes.2060} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Balilla%
+, Mariz%
+, Anne%
+, Althea%
+\BCBL {}\ \BBA {} Annalene%
+}{%
+Balilla%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2023}}%
+}]{%
+Onion}
+\APACinsertmetastar {%
+Onion}%
+\begin{APACrefauthors}%
+Balilla, J.%
+, Mariz, B.%
+, Anne, C.%
+, Althea, E.%
+\BCBL {}\ \BBA {} Annalene, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{May}{}.
+\newblock
+\APACrefbtitle {A 6-Year Forecast of Egg, Rice, and Onion Retail Prices in the
+  Philippines: An Application of ARIMA and SARIMA Models.} {A 6-year forecast
+  of egg, rice, and onion retail prices in the philippines: An application of
+  arima and sarima models.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Balita%
+}{%
+Balita%
+}{%
+{\protect \APACyear {2024}}%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+balita-2024A}
+\APACinsertmetastar {%
+balita-2024A}%
+\begin{APACrefauthors}%
+Balita, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024{\protect \BCnt {1}}}{September}{}.
+\newblock
+\APACrefbtitle {{Production volume of sugarcane Philippines 2012-2023}.}
+  {{Production volume of sugarcane Philippines 2012-2023}.}
+\newblock
+\begin{APACrefURL}
+  \url{https://www.statista.com/statistics/751575/philippines-sugarcane-production/#:~:text=Western%20Visayas%20as%20the%20leading,sugar%20production%20%E2%80%93%20the%20highest%20nationwide.}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Balita%
+}{%
+Balita%
+}{%
+{\protect \APACyear {2024}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+balita-2024B}
+\APACinsertmetastar {%
+balita-2024B}%
+\begin{APACrefauthors}%
+Balita, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024{\protect \BCnt {2}}}{July}{}.
+\newblock
+\APACrefbtitle {{Refined sugar import volume Philippines MY 2020/21-MY
+  2022/23}.} {{Refined sugar import volume Philippines MY 2020/21-MY 2022/23}.}
+\newblock
+\begin{APACrefURL}
+  \url{https://www.statista.com/statistics/1480423/philippines-refined-sugar-import-volume/#:~:text=Published%20by,time%20of%20low%20production%20output}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bobbitt%
+}{%
+Bobbitt%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+ljung}
+\APACinsertmetastar {%
+ljung}%
+\begin{APACrefauthors}%
+Bobbitt, Z.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{February 14}{}.
+\newblock
+\APACrefbtitle {Ljung-Box Test: Definition + Example.} {Ljung-box test:
+  Definition + example.}
+\newblock
+\begin{APACrefURL} \url{https://www.statology.org/ljung-box-test/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Box%
+, Jenkins%
+, Reinsel%
+\BCBL {}\ \BBA {} Ljung%
+}{%
+Box%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+boxjenkins}
+\APACinsertmetastar {%
+boxjenkins}%
+\begin{APACrefauthors}%
+Box, G\BPBI E\BPBI P.%
+, Jenkins, G\BPBI M.%
+, Reinsel, G\BPBI C.%
+\BCBL {}\ \BBA {} Ljung, G\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2015}.
+\newblock
+\APACrefbtitle {Time Series Analysis: Forecasting and Control} {Time series
+  analysis: Forecasting and control}\ (\PrintOrdinal{5th}\ \BEd).
+\newblock
+\APACaddressPublisher{}{John Wiley \& Sons}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Dickey%
+\ \BBA {} Fuller%
+}{%
+Dickey%
+\ \BBA {} Fuller%
+}{%
+{\protect \APACyear {1979}}%
+}]{%
+ADF}
+\APACinsertmetastar {%
+ADF}%
+\begin{APACrefauthors}%
+Dickey, D\BPBI A.%
+\BCBT {}\ \BBA {} Fuller, W\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1979}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Distribution of the estimators for autoregressive time
+  series with a unit root} {Distribution of the estimators for autoregressive
+  time series with a unit root}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of the American Statistical
+  Association}{74}{366a}{427--431}.
+\newblock
+\begin{APACrefDOI} \doi{10.2307/2286348} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gopinath%
+\ \BBA {} Kavithamani%
+}{%
+Gopinath%
+\ \BBA {} Kavithamani%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+gopinath-2019}
+\APACinsertmetastar {%
+gopinath-2019}%
+\begin{APACrefauthors}%
+Gopinath, M.%
+\BCBT {}\ \BBA {} Kavithamani, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{October}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Production of Sugarcane Forecasting using ARIMAX
+  Model}} {{Production of Sugarcane Forecasting using ARIMAX Model}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{International Journal of Innovative Technology and
+  Exploring Engineering (IJITEE)}{8}{12S}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Handa%
+, Mila%
+, Sabalberino%
+\BCBL {}\ \BBA {} Aubrey%
+}{%
+Handa%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2023}}%
+}]{%
+Palay}
+\APACinsertmetastar {%
+Palay}%
+\begin{APACrefauthors}%
+Handa, K\BPBI C.%
+, Mila, M\BPBI M.%
+, Sabalberino, J\BPBI A.%
+\BCBL {}\ \BBA {} Aubrey.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{March}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Forecasting Value of Production of Palay and Retail
+  Price of Rice in the Philippines Using ARIMA Modelling} {Forecasting value of
+  production of palay and retail price of rice in the philippines using arima
+  modelling}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{World Journal of Advanced Research and
+  Reviews}{17}{}{035--054}.
+\newblock
+\begin{APACrefDOI} \doi{10.30574/wjarr.2023.17.3.0345} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hyndman%
+\ \BBA {} Athanasopoulos%
+}{%
+Hyndman%
+\ \BBA {} Athanasopoulos%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+acf}
+\APACinsertmetastar {%
+acf}%
+\begin{APACrefauthors}%
+Hyndman, R\BPBI J.%
+\BCBT {}\ \BBA {} Athanasopoulos, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2018}.
+\newblock
+\APACrefbtitle {Forecasting: Principles and Practice} {Forecasting: Principles
+  and practice}\ (\PrintOrdinal{2nd}\ \BEd).
+\newblock
+\APACaddressPublisher{}{OTexts}.
+\newblock
+\begin{APACrefURL} \url{https://otexts.com/fpp2/} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ilmani%
+, Amatullah%
+, Notodiputro%
+, Angraini%
+\BCBL {}\ \BBA {} Mualifah%
+}{%
+Ilmani%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2025}}%
+}]{%
+CookingOil}
+\APACinsertmetastar {%
+CookingOil}%
+\begin{APACrefauthors}%
+Ilmani, E.%
+, Amatullah, F.%
+, Notodiputro, K.%
+, Angraini, Y.%
+\BCBL {}\ \BBA {} Mualifah, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2025}{04}{}.
+\newblock
+{\BBOQ}\APACrefatitle {THE PERFOMANCE OF THE ARIMAX MODEL ON COOKING OIL PRICE
+  DATA IN INDONESIA} {The perfomance of the arimax model on cooking oil price
+  data in indonesia}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{BAREKENG: Jurnal Ilmu Matematika dan
+  Terapan}{19}{}{819-828}.
+\newblock
+\begin{APACrefDOI} \doi{10.30598/barekengvol19iss2pp819-828} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+James%
+, Witten%
+, Hastie%
+\BCBL {}\ \BBA {} Tibshirani%
+}{%
+James%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+vif1}
+\APACinsertmetastar {%
+vif1}%
+\begin{APACrefauthors}%
+James, G.%
+, Witten, D.%
+, Hastie, T.%
+\BCBL {}\ \BBA {} Tibshirani, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2013}.
+\newblock
+\APACrefbtitle {An Introduction to Statistical Learning: with Applications in
+  R} {An introduction to statistical learning: with applications in r}.
+\newblock
+\APACaddressPublisher{New York}{Springer}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kumar%
+}{%
+Kumar%
+}{%
+{\protect \APACyear {2023}}%
+}]{%
+kumar}
+\APACinsertmetastar {%
+kumar}%
+\begin{APACrefauthors}%
+Kumar, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{May 28}{}.
+\newblock
+\APACrefbtitle {AIC \& BIC for Selecting Regression Models: Formula, Examples.}
+  {Aic \& bic for selecting regression models: Formula, examples.}
+\newblock
+\begin{APACrefURL}
+  \url{https://vitalflux.com/aic-vs-bic-for-regression-models-formula-examples/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kutner%
+, Nachtsheim%
+, Neter%
+\BCBL {}\ \BBA {} Li%
+}{%
+Kutner%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2005}}%
+}]{%
+vif2}
+\APACinsertmetastar {%
+vif2}%
+\begin{APACrefauthors}%
+Kutner, M\BPBI H.%
+, Nachtsheim, C\BPBI J.%
+, Neter, J.%
+\BCBL {}\ \BBA {} Li, W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2005}.
+\newblock
+\APACrefbtitle {Applied Linear Statistical Models} {Applied linear statistical
+  models}\ (\PrintOrdinal{5th}\ \BEd).
+\newblock
+\APACaddressPublisher{New York}{McGraw-Hill/Irwin}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lewis%
+}{%
+Lewis%
+}{%
+{\protect \APACyear {1982}}%
+}]{%
+lewis}
+\APACinsertmetastar {%
+lewis}%
+\begin{APACrefauthors}%
+Lewis, C\BPBI D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1982}.
+\newblock
+\APACrefbtitle {Industrial and Business Forecasting Methods: A Practical Guide
+  to Exponential Smoothing and Curve Fitting} {Industrial and business
+  forecasting methods: A practical guide to exponential smoothing and curve
+  fitting}.
+\newblock
+\APACaddressPublisher{London}{Butterworths}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+PUSHPA%
+, CHETNA%
+, ADITI%
+\BCBL {}\ \BBA {} Verma%
+}{%
+PUSHPA%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2022}}%
+}]{%
+pushpa}
+\APACinsertmetastar {%
+pushpa}%
+\begin{APACrefauthors}%
+PUSHPA%
+, CHETNA%
+, ADITI%
+\BCBL {}\ \BBA {} Verma, U.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{04}{}.
+\newblock
+{\BBOQ}\APACrefatitle {ARIMA and ARIMAX models for sugarcane yield forecasting
+  in Northern Agro-climatic zone of Haryana} {Arima and arimax models for
+  sugarcane yield forecasting in northern agro-climatic zone of
+  haryana}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Agrometeorology}{24}{}{}.
+\newblock
+\begin{APACrefDOI} \doi{10.54386/jam.v24i2.1086} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ramos%
+\ \BBA {} Ativo%
+}{%
+Ramos%
+\ \BBA {} Ativo%
+}{%
+{\protect \APACyear {2023}}%
+}]{%
+SelectedCommodities}
+\APACinsertmetastar {%
+SelectedCommodities}%
+\begin{APACrefauthors}%
+Ramos, K.%
+\BCBT {}\ \BBA {} Ativo, I.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{01}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Forecasting Monthly Prices of Selected Agricultural
+  Commodities in The Philippines Using ARIMA Model} {Forecasting monthly prices
+  of selected agricultural commodities in the philippines using arima
+  model}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{International Journal of Research Publication and
+  Reviews}{04}{}{1983-1993}.
+\newblock
+\begin{APACrefDOI} \doi{10.55248/gengpi.2023.4157} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sevilla%
+}{%
+Sevilla%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+sevilla-2021}
+\APACinsertmetastar {%
+sevilla-2021}%
+\begin{APACrefauthors}%
+Sevilla, F\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{April}{}.
+\newblock
+\APACrefbtitle {{Sugar Annual}} {{Sugar Annual}}\ (\BNUM\ RP2021-0020).
+\newblock
+\APACaddressPublisher{}{United States Department of Agriculture}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Tabuco%
+}{%
+Tabuco%
+}{%
+{\protect \APACyear {2023}}%
+}]{%
+tabuco-2023}
+\APACinsertmetastar {%
+tabuco-2023}%
+\begin{APACrefauthors}%
+Tabuco, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{September}{}.
+\newblock
+\APACrefbtitle {{The Philippine Sugar Industry: A Comprehensive Overview}.}
+  {{The Philippine Sugar Industry: A Comprehensive Overview}.}
+\newblock
+\begin{APACrefURL}
+  \url{https://goodforcetrading.com/the-philippine-sugar-industry-a-comprehensive-overview/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Talavera%
+}{%
+Talavera%
+}{%
+{\protect \APACyear {2022}}%
+}]{%
+talavera-2022}
+\APACinsertmetastar {%
+talavera-2022}%
+\begin{APACrefauthors}%
+Talavera, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{June}{}.
+\newblock
+\APACrefbtitle {{Philippine sugar output continues to drop}.} {{Philippine
+  sugar output continues to drop}.}
+\newblock
+\begin{APACrefURL}
+  \url{https://www.philstar.com/business/2022/06/20/2189489/philippine-sugar-output-continues-drop}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Vesper%
+}{%
+Vesper%
+}{%
+{\protect \APACyear {2024}}%
+}]{%
+vesper-2024}
+\APACinsertmetastar {%
+vesper-2024}%
+\begin{APACrefauthors}%
+Vesper.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{December}{}.
+\newblock
+\APACrefbtitle {{Understanding the sugar price indices and its global impact}.}
+  {{Understanding the sugar price indices and its global impact}.}
+\newblock
+\begin{APACrefURL}
+  \url{https://vespertool.com/knowledge-hub/sugar/types-of-data/price-index/#:~:text=Weather%2Drelated%20disruptions%2C%20such%20as,and%2C%20consequently%2C%20sugar%20prices}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Zajic%
+}{%
+Zajic%
+}{%
+{\protect \APACyear {2022}}%
+}]{%
+zajic}
+\APACinsertmetastar {%
+zajic}%
+\begin{APACrefauthors}%
+Zajic, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{November 29}{}.
+\newblock
+\APACrefbtitle {What Is Akaike Information Criterion (AIC)?} {What is akaike
+  information criterion (aic)?}
+\newblock
+\begin{APACrefURL} \url{https://builtin.com/data-science/what-is-aic}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
